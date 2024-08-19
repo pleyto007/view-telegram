@@ -35,10 +35,11 @@ si quieres agradecer el exfuerzo en la creacion de este script
 
 se parte de nuestra comunidad es gratis! 
 
-                     COMUNIDAD GODUX
+           COMUNIDAD GODUX
                                   
-                                                                           Canal de Telegram: https://t.me/CanalGoduxOficial
+Canal de Telegram: https://t.me/CanalGoduxOficial
+                                  
 Canal de Youtube: https://youtube.com/@godux
 
 
-Creador del script: Godux
+By: Godux
