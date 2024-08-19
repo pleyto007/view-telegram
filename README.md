@@ -15,13 +15,10 @@ Para activar la funcionalidad del script tienes que copiar o escribir los siguie
 
     apt update;apt upgrade -y;pkg install python -y;pkg install git
 
-
     git clone https://github.com/pleyto007/view-telegram.git
 
-
-    cd /view-telegram
-
-
+    cd view-telegram
+    
     python view-telegram.py
 
 Despues solo pegas la url de la publicación del canal de telegram preferido donde dise ( Pega la URL: ) 
