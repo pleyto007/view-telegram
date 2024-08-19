@@ -13,16 +13,16 @@ Como activar la funcionalidad de el script?
 Para activar la funcionalidad del script tienes que copiar o escribir los siguientes comandos..
 
 
-apt update;apt upgrade -y;pkg install python -y;pkg install git
+    apt update;apt upgrade -y;pkg install python -y;pkg install git
 
 
-git clone https://github.com/pleyto007/view-telegram.git
+    git clone https://github.com/pleyto007/view-telegram.git
 
 
-cd /view-telegram
+    cd /view-telegram
 
 
-python view-telegram.py
+    python view-telegram.py
 
 Despues solo pegas la url de la publicación del canal de telegram preferido donde dise ( Pega la URL: ) 
 ejemplo: ( Pega la URL: https://t.me/CanalGoduxOficial/3 )
@@ -35,7 +35,7 @@ si quieres agradecer el exfuerzo en la creacion de este script
 
 se parte de nuestra comunidad es gratis! 
 
-           COMUNIDAD GODUX
+   (((((((   COMUNIDAD GODUX   ))))))) 
                                   
 Canal de Telegram: https://t.me/CanalGoduxOficial
                                   
