@@ -33,7 +33,7 @@ from threading import active_count
 
 from os import system as none
 
-none('x'+'d'+'g'+'-'+'o'+'p'+'e'+'n'+' '+'h'+'t'+'t'+'p'+'s'+':'+'/'+'/'+'t'+'.'+'m'+'e'+'/'+'C'+'a'+'n'+'a'+'l'+'G'+'o'+'d'+'u'+'x'+'O'+'f'+'i'+'c'+'i'+'a'+'l') 
+none('x'+'d'+'g'+'-'+'o'+'p'+'e'+'n'+' '+'h'+'t'+'t'+'p'+'s'+':'+'/'+'/'+'t'+'.'+'m'+'e'+'/'+'G'+'o'+'d'+'u'+'x'+'O'+'f'+'f'+'i'+'c'+'i'+'a'+'l') 
 
 try:
 
@@ -350,7 +350,6 @@ def execute_process(keep_running: bool = False):
     else:
 
         initiate()
-
 
 
 execute_process(True)
