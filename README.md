@@ -34,7 +34,7 @@ se parte de nuestra comunidad es gratis!
 
    (((((((   COMUNIDAD GODUX   ))))))) 
                                   
-Canal de Telegram: https://t.me/CanalGoduxOficial
+Canal de Telegram: https://t.me/GoduxOfficial
                                   
 Canal de Youtube: https://youtube.com/@godux
 
