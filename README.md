@@ -22,7 +22,7 @@ Para activar la funcionalidad del script tienes que copiar o escribir los siguie
     python view-telegram.py
 
 Despues solo pegas la url de la publicación del canal de telegram preferido donde dise ( Pega la URL: ) 
-ejemplo: ( Pega la URL: https://t.me/GoduxOfficial/3 )
+ejemplo: ( Pega la URL: https://t.me/GoduxOfficial )
 
 Luego presionas ENTER y si desas parar la ejecución del script preciona CTRL + C
 
